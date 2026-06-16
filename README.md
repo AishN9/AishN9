@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AishN9
+- 👋 I’m Aish
 - 👀 I’m interested in Robotics, and Java
 - 🌱 I’m currently learning Java, and Python
 <!---
